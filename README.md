@@ -1,4 +1,5 @@
 # gitDemo
+
 This is my first reposetory
 <br>
-Auther - rohit 
+Auther - rohit singh
